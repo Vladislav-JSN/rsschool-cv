@@ -1,2 +1,1 @@
-# rsschool-cv
-Stage-0 RS School
+https://vladislav-jsn.github.io/rsschool-cv/
