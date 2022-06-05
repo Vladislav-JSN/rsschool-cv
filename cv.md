@@ -1,13 +1,13 @@
-### Vladislav Vasilyuk
+# Vladislav Vasilyuk
 
-# Contacts:
+### Contacts:
 
 - Phone: +7 000 103 59 55
 - Email: vlad-zp@yandex.ru
 
 ---
 
-# About myself:
+### About myself:
 
 I want to learn javascript and NodeJS and change my work
 
